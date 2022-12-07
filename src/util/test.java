@@ -5,5 +5,7 @@ public class test {
         System.out.println("66bn");
         System.out.println("66.com664");
         System.out.println("bigbigdan");
+        System.out.println("bigbigdan");
+        System.out.println("bigbigdan");
     }
 }
